@@ -1,15 +1,6 @@
 # 📚 MATERI AJAR PPB + BASIS DATA
 
-> Materi Persiapan SAT (Sumatif Akhir Tahun) Kelas XI PPLG – Kurikulum Merdeka
->
-> Siap digunakan untuk:
-> - GitHub Repository
-> - README.md
-> - Dokumentasi Pembelajaran
-> - LMS Sekolah
-> - Modul Belajar Siswa
-
----
+> Materi Persiapan SAT (Sumatif Akhir Tahun) Kelas XI PPLG 
 
 ## 🚀 Kompetensi yang Dipelajari
 
