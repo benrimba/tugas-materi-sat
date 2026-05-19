@@ -1,31 +1,7 @@
-# 📚 MATERI AJAR PPB + BASIS DATA
-
-> Materi Persiapan SAT (Sumatif Akhir Tahun) Kelas XI PPLG 
-
-## 🚀 Kompetensi yang Dipelajari
-
-- Dasar PHP Native
-- Variabel dan Tipe Data
-- Function PHP
-- Array dan Perulangan
-- Form Handling (GET & POST)
-- Session Login
-- CRUD PHP Native + MySQLi
-- Dasar Basis Data
-- SQL Dasar
-- JOIN Database
-- Relasi Database
-- Normalisasi
-- Keamanan Web Dasar
-- Proyek Mini Sistem Data Siswa
-
----
-
 # MATERI AJAR
 ## Persiapan SAT (Sumatif Akhir Tahun)
 ### Mata Pelajaran PPB (Pemrograman Berbasis Objek) + Basis Data
-### Kelas XI PPLG – Kurikulum Merdeka
-
+### Kelas XI PPLG 
 ---
 
 # DAFTAR ISI
